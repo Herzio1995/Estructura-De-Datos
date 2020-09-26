@@ -1,3 +1,5 @@
+package estDatLin;
+
 
 public class ListaSE<T>{
     private T          ini;

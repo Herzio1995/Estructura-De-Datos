@@ -1,4 +1,4 @@
-package estDat.estDatLin;
+package estDatLin;
 
 public class ListaCSE<T>{   
     private NodoSE<T> ini;

@@ -1,3 +1,5 @@
+package Ejercicios;
+
 
 
 import static org.junit.Assert.*;

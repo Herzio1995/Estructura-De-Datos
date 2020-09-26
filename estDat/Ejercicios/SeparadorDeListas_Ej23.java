@@ -1,3 +1,5 @@
+package Ejercicios;
+
 
 
 public class SeparadorDeListas_Ej23{

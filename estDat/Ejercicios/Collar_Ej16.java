@@ -1,3 +1,5 @@
+package Ejercicios;
+
 public class Collar_Ej16
 {
     private Pila<Piedra> collar;

@@ -1,3 +1,5 @@
+package Ejercicios;
+
 public class Plato_Ej8
 {
     private Pila<Panqueque> panqueques;

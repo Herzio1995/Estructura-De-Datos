@@ -1,4 +1,4 @@
-package estDat.estDatNoLin;
+package estDatNoLin;
 
 
 public class NodoTE<T>{

@@ -1,3 +1,5 @@
+package Ejercicios;
+
 
 /**
  * Write a description of class BloqueMadera here.

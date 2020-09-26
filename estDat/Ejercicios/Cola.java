@@ -1,4 +1,4 @@
-package estDat.Ejercicios;
+package Ejercicios;
 
 public class Cola<T>
 {

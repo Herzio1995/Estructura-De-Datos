@@ -1,4 +1,4 @@
-package estDat.estDatLin;
+package estDatLin;
 
 
 public class BiCola<T> extends Cola<T>

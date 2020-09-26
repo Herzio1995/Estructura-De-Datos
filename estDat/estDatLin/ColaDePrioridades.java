@@ -1,4 +1,4 @@
-package estDat.estDatLin;
+package estDatLin;
 
 public class ColaDePrioridades< T extends Comparable<T>> extends Cola
 {
